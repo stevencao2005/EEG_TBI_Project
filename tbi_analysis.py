@@ -1,5 +1,6 @@
 """
-@authors: Steven Cao, Manoj Vishwanath: https://github.com/ManojVishwanath
+@authors: Steven Cao: https://github.com/stevencao2005,
+          Manoj Vishwanath: https://github.com/ManojVishwanath
 
 """
 
