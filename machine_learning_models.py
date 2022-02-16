@@ -1,3 +1,9 @@
+"""
+@authors: Steven Cao: https://github.com/stevencao2005,
+          Manoj Vishwanath: https://github.com/ManojVishwanath
+
+"""
+
 #import torch
 import os
 #from torch.utils.data import Dataset
